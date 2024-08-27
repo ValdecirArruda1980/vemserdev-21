@@ -1,0 +1,3 @@
+Meu Primeiro Documento no Git
+Este é o Inicio do Meu Trabalho 
+Dia 07/08/24 continuando o trabalho no arquivo trabalho.txt
